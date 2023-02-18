@@ -23,7 +23,7 @@ created the webpage using html and css.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://kevenbenavente.github.io/QR-Code-Challenge/
 
 
 
